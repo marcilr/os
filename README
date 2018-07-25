@@ -1,0 +1,91 @@
+README
+Created Fri Jun  9 10:05:55 AKDT 2017
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Operating Systems
+
+
+Filelist
+========
+00ARCHIVES/
+  Archives
+
+android/
+  Android mobile os
+  http://www.android.com/
+
+centos/
+  CentOS Project
+  https://www.centos.org/
+
+debian/
+  Debian
+  https://www.debian.org/
+
+dsl/
+  Damn Small Linux
+  http://www.damnsmalllinux.org/
+
+freebsd/
+  The FreeBSD Project
+  https://www.freebsd.org/
+
+freenas/
+  FreeNAS
+  The World’s #1 Storage OS with over 9+ Million Downloads
+  Enterprise-Grade Features, Open Source, BSD Licensed
+  o Web Interface
+  o File Sharing
+  o Snapshots
+  o Replication
+  http://www.freenas.org/
+
+
+haiku/
+  Reincarnation of beos.
+  http://www.haiku-os.org/
+
+links.txt
+  OS related links
+
+
+linux/
+  Linux
+
+  The Linux Documentation Project
+  https://www.tldp.org/
+
+  The Linux Kernel Archives
+  https://www.kernel.org/
+
+manifest
+  Manifest for OS
+
+os.txt
+  Operating Systems
+
+redhat/
+  Red Hat
+  https://www.redhat.com/en
+
+slax/
+  Slax Linux your pocket operating system
+  https://www.slax.org/
+
+solaris/
+  Solaris is a Unix operating system originally developed by
+  Sun Microsystems.  It superseded their earlier SunOS in 1993.
+  Oracle Solaris, as it is now known, has been owned by Oracle
+  Corporation since Oracle's acquisition of Sun in January 2010.[2]
+  http://en.wikipedia.org/wiki/Solaris_%28operating_system%29
+
+svn_ext_val.txt
+  List of repo hierarchical directories to checkout under os/
+
+ubuntu/
+  Ubuntu, debian derivative
+  https://www.ubuntu.com/
+
+windows/
+  Microsoft windows related documentation
