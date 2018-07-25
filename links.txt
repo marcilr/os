@@ -1,0 +1,15 @@
+links.txt
+Created Thu Sep 22 13:03:06 AKDT 2016
+Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+OS related links
+
+
+Links
+=====
+Alaska Linux Users Group
+https://aklug.org/
+
+Devuan GNU+Linux is a fork of Debian without systemd.
+https://devuan.org/
