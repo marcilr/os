@@ -25,7 +25,8 @@ ssh://htpc/data/git/os/centos          centos
 ssh://git@github.com/marcilr/debian    debian
 ssh://htpc/data/git/os/freebsd         freebsd
 ssh://git@github.com/marcilr/freenas   freenas
-ssh://htpc/data/git/os/macos           macos
+ssh://git@github.com/marcilr/macos     macos
+ssh://git@github.com/marcilr/os        os
 ssh://htpc/data/git/os/redhat          redhat
 ssh://htpc/data/git/os/solaris         solaris
 ssh://htpc/data/git/os/ubuntu          ubuntu
