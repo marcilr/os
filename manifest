@@ -29,5 +29,5 @@ ssh://git@github.com/marcilr/macos       macos
 ssh://htpc/data/git/os/redhat            redhat
 ssh://htpc/data/git/os/solaris           solaris
 ssh://htpc/data/git/os/ubuntu            ubuntu
-#ssh://htpc/data/git/os/windows/windows   windows
-https://github.com/marcilr/windows.git   windows
+ssh://git@github.com/marcilr/windows     windows
+
