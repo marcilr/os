@@ -1,0 +1,16 @@
+#.gitignore
+# Created Tue, Dec 11, 2018 10:10:10 AM
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+centos/
+debian/
+freebsd/
+freenas/
+macos/
+redhat/
+solaris/
+windows/
+
