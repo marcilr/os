@@ -30,6 +30,7 @@ ssh://git@github.com/marcilr/freenas     freenas
 ssh://git@github.com/marcilr/macos       macos
 #ssh://htpc/data/git/os/redhat            redhat
 ssh://git@github.com/marcilr/redhat      redhat
-ssh://htpc/data/git/os/solaris           solaris
+#ssh://htpc/data/git/os/solaris           solaris
+ssh://git@github.com/marcilr/solaris     solaris
 ssh://htpc/data/git/os/ubuntu            ubuntu
 ssh://git@github.com/marcilr/windows     windows
