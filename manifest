@@ -21,7 +21,8 @@
 #
 # =====================================================================
 # =====================================================================
-ssh://htpc/data/git/os/centos            centos
+#ssh://htpc/data/git/os/centos            centos
+ssh://git@github.com/marcilr/centos      centos
 ssh://git@github.com/marcilr/debian      debian
 ssh://htpc/data/git/os/freebsd           freebsd
 ssh://git@github.com/marcilr/freenas     freenas
