@@ -21,20 +21,15 @@
 #
 # =====================================================================
 # =====================================================================
-#ssh://htpc/data/git/os/centos                  centos
 ssh://git@github.com/marcilr/centos            centos
 ssh://git@github.com/marcilr/debian            debian
 ssh://git@github.com/marcilr/filesystem        filesystem
-#ssh://htpc/data/git/os/freebsd                 freebsd
 ssh://git@github.com/marcilr/freebsd           freebsd
 ssh://git@github.com/marcilr/freenas           freenas
 ssh://git@github.com/marcilr/macos             macos
 ssh://git@github.com/marcilr/nix               nix
 ssh://git@github.com/marcilr/package-manager   package-manager
-#ssh://htpc/data/git/os/redhat                  redhat
 ssh://git@github.com/marcilr/redhat            redhat
-#ssh://htpc/data/git/os/solaris                solaris
 ssh://git@github.com/marcilr/solaris           solaris
-#ssh://htpc/data/git/os/ubuntu                  ubuntu
 ssh://git@github.com/marcilr/ubuntu            ubuntu
-ssh://git@github.com/marcilr/windows            windows
+ssh://git@github.com/marcilr/windows           windows
