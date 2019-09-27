@@ -12,6 +12,7 @@ freebsd/
 freenas/
 macos/
 nix/
+package-manager/
 redhat/
 solaris/
 ubuntu/
