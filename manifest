@@ -26,6 +26,7 @@ ssh://git@github.com/marcilr/debian            debian
 ssh://git@github.com/marcilr/filesystem        filesystem
 ssh://git@github.com/marcilr/freebsd           freebsd
 ssh://git@github.com/marcilr/freenas           freenas
+ssh://git@github.com/marcilr/linux             linux
 ssh://git@github.com/marcilr/macos             macos
 ssh://git@github.com/marcilr/nix               nix
 ssh://git@github.com/marcilr/package-manager   package-manager
